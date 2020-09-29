@@ -82,7 +82,7 @@ body {
   }
 }
 
-@media screen and (monochrome: 8) {
+@media screen and (monochrome: 32) {
   .footer .mono{
 	display: block;
   }
